@@ -1,3 +1,8 @@
+Judges Remarks: 
+
+Durwasa Chakraborty: I really hope many of the participants keep at it.  Gsoc should be the great next step: pick, start contributing to their repos now, talk to the maintainers, and your proposal will be far stronger when applications open. Happy to help anyone who wants to give it a shot.
+
+
 - ## **Open-source contribution guide**
 	- **Find a project**
 		- Browse beginner-friendly labels such as `good first issue`, `beginner`, or `help wanted` on GitHub.
@@ -57,6 +62,8 @@
 		- Good First Issue: https://goodfirstissue.dev/ ; Up For Grabs: https://up-for-grabs.net/ ; CodeTriage: https://www.codetriage.com/.
 		- First Contributions: https://firstcontributions.github.io/ ; Open Source Guides: https://opensource.guide/how-to-contribute/.
 		- GitHub docs: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project.
+		- https://kernelnewbies.org/KernelJanitors
+		
 
 
 Good Luck! May the source be with you :)
